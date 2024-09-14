@@ -1,1 +1,2 @@
 # CodSoft_2
+This Python-based Simple Calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. With a straightforward command-line interface, users can input two numbers and select the desired operation. This project serves as a great introduction to Python programming, demonstrating concepts like conditional statements, and user input handling. It is an excellent project for beginners to understand the fundamental Operations in Python Programming.
